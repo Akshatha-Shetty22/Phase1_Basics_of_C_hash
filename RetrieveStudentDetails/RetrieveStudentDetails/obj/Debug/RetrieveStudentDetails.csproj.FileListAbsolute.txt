@@ -1,0 +1,7 @@
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\bin\Debug\RetrieveStudentDetails.exe.config
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\bin\Debug\RetrieveStudentDetails.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\bin\Debug\RetrieveStudentDetails.pdb
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\obj\Debug\RetrieveStudentDetails.csproj.AssemblyReference.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\obj\Debug\RetrieveStudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\obj\Debug\RetrieveStudentDetails.exe
+C:\Users\akshetty\Project_Files\Visual_studio_c#_projects\RetrieveStudentDetails\RetrieveStudentDetails\obj\Debug\RetrieveStudentDetails.pdb

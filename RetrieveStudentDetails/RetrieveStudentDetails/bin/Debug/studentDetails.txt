@@ -1,0 +1,9 @@
+1,Rohan,7,A
+2,Rakesh,7,B
+3,Arun,8,A
+4,Vidya,7,C
+5,Akshatha Shetty,8,A
+6,Kiran,8,A
+7,Arjun,6,B
+8,Aanchal,8,A
+
